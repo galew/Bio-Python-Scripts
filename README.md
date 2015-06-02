@@ -1,5 +1,7 @@
 # Bio-Python-Scripts
 
+Order of scripts and usage:
+
 filter_script.py: Filters out unwanted characters from pileup and cuts out SNPs if the minimum number of reads does not meet the threshold given.
 
 SNPcount_script.py: Counts the number of SNPs after being filtered.
